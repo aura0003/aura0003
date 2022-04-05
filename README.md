@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @friendlymistiq
+- 👀 I’m interested in not failing hs and getting into UW or UofT
+- 🌱 I’m currently learning different python libraries and apis
+- 💞️ I’m looking to collaborate on nothing atm :)
+- 📫 How to reach me on discord @ Aura#0003

@@ -1,8 +1,9 @@
 # Hey!
 
-Recently, I was a backend developer on my hackwestern hackathon submission [Medisight](https://github.com/harishuthaya/medisight) written in Python ✨. This whole journey began with an interest to learn more technologies. It started when I created something called [Martialis](https://github.com/aura0003/Martialis) 🤏. Before that, I was really into writing backend functions for various projects and hosting them on different cloud platforms.
-
-> As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive.
+Recently worked on the backend of [Medisight](https://github.com/harishuthaya/medisight) written in Python ✨ for [HackWestern X](https://www.hackwestern.com/). 
+Currently a engineering student @ University of Western Ontario.
+Most recent personal project: [Martialis](https://github.com/aura0003/Martialis) 🤏. A cloud hosted ML ([pyTorch](https://github.com/sanghyun-son/EDSR-PyTorch) [EDSR](https://keras.io/examples/vision/edsr/)) OCR application.
+> As a former Graphic Designer, I'll always have a soft spot for design. My work can be found @ [Coming Soon]
 
 > Find me on discord <a rel="me" href="https:/discord.id">@aura0003</a>.
 ---

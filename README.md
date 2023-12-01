@@ -1,7 +1,7 @@
 # Hey!
 
 Recently worked on the backend of [Medisight](https://github.com/harishuthaya/medisight) written in Python ✨ for [HackWestern X](https://www.hackwestern.com/). 
-Currently a engineering student @ University of Western Ontario.
+Currently an engineering student @ University of Western Ontario.
 Most recent personal project: [Martialis](https://github.com/aura0003/Martialis) 🤏. A cloud hosted ML ([pyTorch](https://github.com/sanghyun-son/EDSR-PyTorch) [EDSR](https://keras.io/examples/vision/edsr/)) OCR application.
 > As a former Graphic Designer, I'll always have a soft spot for design. My work can be found @ [Coming Soon]
 
